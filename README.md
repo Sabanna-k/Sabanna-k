@@ -2,6 +2,6 @@
 - 👀 I’m interested in software development, Data Structures & Algorithms (DSA), and building creative web applications.
 - 🌱 I’m currently learning JavaScript, React, and mastering DSA in Java. I'm also improving my full-stack development skills using Spring Boot and Java.
 - 💞️ I’m looking to collaborate on open-source projects, particularly in backend development with Java and frontend projects using React.
-- 📫 How to reach me: contactus@qicpic.in
+- 📫 How to reach me: sabanna@qicpic.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m an artist who enjoys sketching and painting in my free time, and I'm always up for creative coding challenges!
